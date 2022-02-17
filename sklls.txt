@@ -1,0 +1,13 @@
+Hard_skills:
+Codes HTTP,
+GitBash,
+structure json,
+structure XML,
+Postman for testing,
+API testing,
+Dev Tools
+	
+Soft_skils:
+searh in googl,
+sociability,
+timework.
